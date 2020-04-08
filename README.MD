@@ -1,30 +1,30 @@
 # Git and Github
 # Scenes
 
-- [X]  Possibilita criar pontos na história da produção do seu projeto.{
-        git add landingpage.html
-        git commit -m "added landind page"
+- [X]  Possibilita criar pontos na história da produção do seu projeto.{<br>
+        git add landingpage.html<br>
+        git commit -m "added landind page"<br>
 }
 
-- [x]  Possivel verificar mudanças feitas no seu projeto(Ver o pontos).{
-        git log
-        git show -> git show 34e53d40f839a923f29da
+- [x]  Possivel verificar mudanças feitas no seu projeto(Ver o pontos).{<br>
+        git log<br>
+        git show -> git show 34e53d40f839a923f29da<br>
 }
 
 `  Observe que o termial do git diz que você está na linha master -> Thiago@DESKTOP-CUS2S2G MINGW64 ~/Documents/Git (master)`  
 `   É tipo um linha do tempo principal. E se quiser tentar algo novo você pode peger tudo o que tem e alterar em uma linha do tempo alternativa. o que é possivel com o BRANCH `
 
-- [X] É posivel começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.(Universo paralelo){
-     git branch arquivo -> Brabch significa ramificação  
-     git checkout feature/cart -> se mover para a branch feature/cart
+- [X] É posivel começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.(Universo paralelo){<br>
+     git branch arquivo -> Brabch significa ramificação  <br>
+     git checkout feature/cart -> se mover para a branch feature/cart<br>
      
      ` Voltar para linha do tempo principal{ git checkout master } `
      ` verificar linhas do tempo{ git Branch } `
 
 }
-- [X] Adicionar as novas funcionalidades ao seu projeto em produção.{ git merge feature/cart }
+- [X] Adicionar as novas funcionalidades ao seu projeto em produção.{<br> git merge feature/cart<br> }
 
-- [X] É possivel deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.{  git branch -D feature/cart }
+- [X] É possivel deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.{ <br> git branch -D feature/cart<br> }
 
 = ` git init ` // Inicia a linha do tempo.<br>
 = ` git add ` // Adiciona ou atualiza mudanças para irem para linha todo tempo.<br>
