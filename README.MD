@@ -36,11 +36,12 @@
 = ` git checkout ` // Manipula as linhas do tempo.<br>
 = ` git merge ` // Uni linhas do tempo.<br>
 = ` git push ` // Envia alterações de locais para o repositório remoto.<br>
-= ` Vim ` Nome do arquivo  // Abre arquivos. - Apertando-> `:wq` salva alterações feitas - Apertando-> `:qa!` cancela alterações feitas<br>
+= ` Vim ` Nome do arquivo  // Abre arquivos.<br>
 = ` git clone ` // Clonar um projeto/repositório.<br>
 = ` git pull ` // Puxa repositório remoto.<br>
 
 Alterações sendo feitas....
+// Criando alterações no arquivo pelo GitHib para usar o `git pull` 
 
 
 
