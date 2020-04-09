@@ -32,8 +32,8 @@
 = ` git log ` // Vemos os pontos na linha do tempo / commit.<br>
 = ` git status ` // Informa o estado das alerações do nosso projeto.<br>
 = ` git show ` // Apresenta determinado show na hitória.<br>
-= ` git branch ` // Gerencia novas linha do tempo. <=> `git checkout -b teste` // Cria um nova linha do tempo e já entra nela).<br>
-= ` git checkout ` // Manipula as linhas do tempo.<br>
+= ` git branch ` // Gerencia novas linha do tempo. <=> `git checkout -b teste.js` // Cria um nova linha do tempo e já entra nela).<br>
+= ` git checkout ` // Manipula as linhas do tempo. <=> `git checkout -- teste.html` // Restaura o arquivo desejado na sua ultima vesão, se desejar em algum ponto expecifico, é só passar o ponto antes dos hifens.<br> 
 = ` git merge ` // Uni linhas do tempo.<br>
 = ` git push ` // Envia alterações de locais para o repositório remoto.<br>
 = ` Vim ` Nome do arquivo  // Abre arquivos.<br>
