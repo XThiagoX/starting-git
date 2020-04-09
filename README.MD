@@ -40,8 +40,7 @@
 = ` git clone ` // Clonar um projeto/repositório.<br>
 = ` git pull ` // Puxa repositório remoto.<br>
 
-
-
+Alterações sendo feitas....
 // Criando alterações no arquivo pelo GitHib para usar o `git pull` 
 
 
