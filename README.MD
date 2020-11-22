@@ -1,6 +1,6 @@
 # Git and Github
-# Scenes
 
+# Scenes
 - [X]  Possibilita criar pontos na história da produção do seu projeto.{<br>
         git add landingpage.html<br>
         git commit -m "added landind page"<br>
