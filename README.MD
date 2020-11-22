@@ -1,5 +1,5 @@
 # Git and Github
-
+        Tutorial para os passos iniciais para versionamento de código com Git e GitHub.
 # Scenes
 - [X]  Possibilita criar pontos na história da produção do seu projeto.{<br>
         git add landingpage.html<br>
@@ -30,10 +30,10 @@
 = ` git add ` // Adiciona ou atualiza mudanças para irem para linha todo tempo.<br>
 = ` git commit ` // Adiciona um ponto na linha do tempo.<br>
 = ` git log ` // Vemos os pontos na linha do tempo / commit.<br>
-= ` git status ` // Informa o estado das alerações do nosso projeto.<br>
-= ` git show ` // Apresenta determinado show na hitória.<br>
-= ` git branch ` // Gerencia novas linha do tempo. <=> `git checkout -b teste.js` // Cria um nova linha do tempo e já entra nela).<br>
-= ` git checkout ` // Manipula as linhas do tempo. <=> `git checkout -- teste.html` // Restaura o arquivo desejado na sua ultima vesão, se desejar em algum ponto expecifico, é só passar o ponto antes dos hifens.<br> 
+= ` git status ` // Informa o estado das alterações do nosso projeto.<br>
+= ` git show ` // Apresenta determinado show na história.<br>
+= ` git branch ` // Gerência novas linha do tempo. <=> `git checkout -b teste.js` // Cria um nova linha do tempo e já entra nela).<br>
+= ` git checkout ` // Manipula as linhas do tempo. <=> `git checkout -- teste.html` // Restaura o arquivo desejado na sua ultima vesão, se desejar em algum ponto específico, é só passar o ponto antes dos hifens.<br> 
 = ` git merge ` // Uni linhas do tempo.<br>
 = ` git push ` // Envia alterações de locais para o repositório remoto.<br>
 = ` Vim ` Nome do arquivo  // Abre arquivos.<br>
