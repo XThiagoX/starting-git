@@ -28,10 +28,10 @@
 
 = ` git init ` // Inicia a linha do tempo.<br>
 = ` git add ` // Adiciona ou atualiza mudanças para irem para linha todo tempo.<br>
-= ` git commit ` // Adiciona um ponto na linha do tempo.<br>
+= ` git commit ` // Adiciona um ponto na linha do tempo. <=> ` git commit -am "mensagem" ` Adiciona mudanças e cria o ponto na história.<br>
 = ` git log ` // Vemos os pontos na linha do tempo / commit.<br>
 = ` git status ` // Informa o estado das alterações do nosso projeto.<br>
-= ` git show ` // Apresenta determinado show na história.<br>
+= ` git show ` // Apresenta determinado ponto na história.<br>
 = ` git branch ` // Gerência novas linha do tempo. <=> `git checkout -b teste.js` // Cria um nova linha do tempo e já entra nela).<br>
 = ` git checkout ` // Manipula as linhas do tempo. <=> `git checkout -- teste.html` // Restaura o arquivo desejado na sua ultima versão. Se desejar em algum ponto específico, é só passar o ponto antes dos hifens.<br> 
 = ` git merge ` // Uni linhas do tempo.<br>
