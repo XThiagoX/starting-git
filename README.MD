@@ -27,7 +27,7 @@
 - [X] É possível deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.{ <br> git branch -D feature/cart<br> }
 
 = ` git init ` // Inicia a linha do tempo.<br>
-= ` git add ` // Adiciona ou atualiza mudanças para irem para linha todo tempo.<br>
+= ` git add ` // Adiciona ou atualiza mudanças para irem para linha todo tempo.{Para adicionar todos os arquivos alterados=>`git add -A` }<br>
 = ` git commit ` // Adiciona um ponto na linha do tempo. <=> ` git commit -am "mensagem" ` Adiciona mudanças e cria o ponto na história.<br>
 = ` git log ` // Vemos os pontos na linha do tempo / commit.<br>
 = ` git status ` // Informa o estado das alterações do nosso projeto.<br>
